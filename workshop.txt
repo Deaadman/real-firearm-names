@@ -1,0 +1,6 @@
+version=1
+id=
+title=Real Firearm Names
+description=Changes the names of the vanilla firearm names, to their real life counterparts.
+tags=Build 42;Weapons
+visibility=public

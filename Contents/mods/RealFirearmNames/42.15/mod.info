@@ -1,0 +1,8 @@
+name=Real Firearm Names
+id=RealFirearmNames
+author=Deadman
+description=Changes the names of the vanilla firearm names, to their real life counterparts.
+modversion=1.0.0
+versionMin=42.15
+poster=poster.png
+icon=icon.png
